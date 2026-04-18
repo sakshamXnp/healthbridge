@@ -1,0 +1,27 @@
+{
+  "name": "healthbridge-whatsapp",
+  "version": "1.0.0",
+  "description": "HealthBridge - WhatsApp-based health assistant powered by AI",
+  "main": "dist/test-server.js",
+  "scripts": {
+    "dev": "tsx src/test-server.ts",
+    "build": "tsc",
+    "start": "node dist/test-server.js"
+  },
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.7.7",
+    "axios": "^1.15.0",
+    "dotenv": "^16.0.0",
+    "fastify": "^5.0.0",
+    "pdf-parse": "^1.1.1",
+    "pino": "^8.21.0",
+    "sharp": "^0.33.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/pino": "^7.0.5",
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}

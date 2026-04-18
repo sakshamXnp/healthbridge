@@ -1,0 +1,22 @@
+[
+  {"name": "Princeton Community Health Center", "address": "254 Witherspoon St", "city": "Princeton", "state": "NJ", "zip": "08540", "phone": "(609) 924-7171", "lat": 40.3573, "lng": -74.6672, "slidingFeeScale": true},
+  {"name": "Henry J. Austin Health Center", "address": "321 N Warren St", "city": "Trenton", "state": "NJ", "zip": "08618", "phone": "(609) 278-5900", "lat": 40.2206, "lng": -74.7641, "slidingFeeScale": true},
+  {"name": "CAMcare Health Corporation", "address": "817 Federal St", "city": "Camden", "state": "NJ", "zip": "08103", "phone": "(856) 583-2400", "lat": 39.9412, "lng": -75.1174, "slidingFeeScale": true},
+  {"name": "Zufall Health Center", "address": "18 W Blackwell St", "city": "Dover", "state": "NJ", "zip": "07801", "phone": "(973) 328-3344", "lat": 40.8840, "lng": -74.5601, "slidingFeeScale": true},
+  {"name": "Newark Community Health Centers", "address": "741 Broadway", "city": "Newark", "state": "NJ", "zip": "07104", "phone": "(973) 483-1300", "lat": 40.7654, "lng": -74.1680, "slidingFeeScale": true},
+  {"name": "North Hudson Community Action Corporation", "address": "5301 Broadway", "city": "West New York", "state": "NJ", "zip": "07093", "phone": "(201) 866-9320", "lat": 40.7875, "lng": -74.0121, "slidingFeeScale": true},
+  {"name": "Plainfield Health Center", "address": "1700 E 2nd St", "city": "Plainfield", "state": "NJ", "zip": "07062", "phone": "(908) 753-6401", "lat": 40.6198, "lng": -74.3959, "slidingFeeScale": true},
+  {"name": "Eric B. Chandler Health Center", "address": "277 George St", "city": "New Brunswick", "state": "NJ", "zip": "08901", "phone": "(732) 235-6700", "lat": 40.4863, "lng": -74.4430, "slidingFeeScale": true},
+  {"name": "Ironbound Community Health Center", "address": "214 Ferry St", "city": "Newark", "state": "NJ", "zip": "07105", "phone": "(973) 344-4004", "lat": 40.7262, "lng": -74.1559, "slidingFeeScale": true},
+  {"name": "Metropolitan Family Health Network", "address": "46 Congress St", "city": "Jersey City", "state": "NJ", "zip": "07307", "phone": "(201) 478-5800", "lat": 40.7421, "lng": -74.0544, "slidingFeeScale": true},
+  {"name": "Monmouth Family Health Center", "address": "270 Broadway", "city": "Long Branch", "state": "NJ", "zip": "07740", "phone": "(732) 571-7700", "lat": 40.2985, "lng": -73.9924, "slidingFeeScale": true},
+  {"name": "Ocean Health Initiatives", "address": "275 Hwy 79", "city": "Morganville", "state": "NJ", "zip": "07751", "phone": "(732) 333-2600", "lat": 40.3721, "lng": -74.2449, "slidingFeeScale": true},
+  {"name": "CompleteCare Health Network", "address": "700 S Brewster Rd", "city": "Vineland", "state": "NJ", "zip": "08361", "phone": "(856) 507-0500", "lat": 39.4671, "lng": -75.0193, "slidingFeeScale": true},
+  {"name": "Southern Jersey Family Medical Centers", "address": "625 N Broad St", "city": "Woodbury", "state": "NJ", "zip": "08096", "phone": "(856) 881-4540", "lat": 39.8483, "lng": -75.1498, "slidingFeeScale": true},
+  {"name": "La Clinica del Pueblo", "address": "2831 15th St NW", "city": "Washington", "state": "DC", "zip": "20009", "phone": "(202) 328-4000", "lat": 38.9200, "lng": -77.0336, "slidingFeeScale": true},
+  {"name": "Community Healthcare Network", "address": "79 Madison St", "city": "New York", "state": "NY", "zip": "10002", "phone": "(212) 432-8000", "lat": 40.7127, "lng": -73.9971, "slidingFeeScale": true},
+  {"name": "NYC Health + Hospitals Gotham Health", "address": "227 Madison St", "city": "New York", "state": "NY", "zip": "10002", "phone": "(212) 238-7000", "lat": 40.7134, "lng": -73.9866, "slidingFeeScale": true},
+  {"name": "Morris Heights Health Center", "address": "85 W Burnside Ave", "city": "Bronx", "state": "NY", "zip": "10453", "phone": "(718) 716-4400", "lat": 40.8530, "lng": -73.9165, "slidingFeeScale": true},
+  {"name": "Philadelphia FIGHT Community Health Centers", "address": "1233 Locust St", "city": "Philadelphia", "state": "PA", "zip": "19107", "phone": "(215) 985-4448", "lat": 39.9475, "lng": -75.1612, "slidingFeeScale": true},
+  {"name": "Public Health Management Corporation", "address": "1500 Market St", "city": "Philadelphia", "state": "PA", "zip": "19102", "phone": "(215) 985-2500", "lat": 39.9525, "lng": -75.1679, "slidingFeeScale": true}
+]
